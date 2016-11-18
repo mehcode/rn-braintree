@@ -1,0 +1,21 @@
+{
+  "name": "rn-braintree",
+  "version": "0.0.0",
+  "description": "React Native interface to Braintree's Android and iOS SDKs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehcode/rn-braintree.git"
+  },
+  "keywords": [
+    "react-native",
+    "braintree",
+    "tokenize"
+  ],
+  "author": "Ryan Leckey <leckey.ryan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehcode/rn-braintree/issues"
+  },
+  "homepage": "https://github.com/mehcode/rn-braintree#readme"
+}

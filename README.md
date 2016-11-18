@@ -7,6 +7,11 @@
 
 2. `react-native link rn-braintree`
 
+### iOS
+
+Refer to the official
+Braintree iOS SDK documentation: https://github.com/braintree/braintree_ios#getting-started
+
 ## Usage
 
 ### Configure

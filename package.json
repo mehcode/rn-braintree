@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mehcode/rn-braintree/issues"
   },
-  "homepage": "https://github.com/mehcode/rn-braintree#readme"
+  "homepage": "https://github.com/mehcode/rn-braintree#readme",
+  "devDependencies": {
+    "react-native": "^0.37.0"
+  }
 }

@@ -231,9 +231,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"${SRCROOT}/../../../ios/**",
-					"${SRCROOT}/../../react-native/React/**",
-					"${SRCROOT}/../node_modules/react-native/React/**",
+					"$(BUILT_PRODUCTS_DIR)/usr/local/include",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -253,9 +251,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"${SRCROOT}/../../../ios/**",
-					"${SRCROOT}/../../react-native/React/**",
-					"${SRCROOT}/../node_modules/react-native/React/**",
+					"$(BUILT_PRODUCTS_DIR)/usr/local/include",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
